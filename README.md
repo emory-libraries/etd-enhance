@@ -1,4 +1,4 @@
-# product-enhance
+# ETD Enhancement Requests
 
 Welcome to the enhancement request repository for the Emory Theses and Dissertations Repository! 
 
