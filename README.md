@@ -8,6 +8,6 @@ This repository is dedicated to receiving and reviewing enhancement request subm
 
 * Submit a [new request directly](https://github.com/emory-libraries/etd-enhance/issues/new?assignees=&labels=&template=feature_request.md&title=) or via email [link TBD]
 
-* [Learn more](https://github.com/emory-libraries/product-enhance/wiki) about how to submit and review enhancement requests
+* [Learn more](https://github.com/emory-libraries/etd-enhance/wiki) about how to submit and review enhancement requests
 
 
